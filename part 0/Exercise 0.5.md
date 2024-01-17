@@ -1,5 +1,6 @@
 EXERCISE 0.5
 
+```mermaid
     sequenceDiagram
         participant browser
         participant server
@@ -28,4 +29,4 @@ EXERCISE 0.5
     
         Note right of browser: The browser executes the callback function that renders the notes
     end
-    
+```
