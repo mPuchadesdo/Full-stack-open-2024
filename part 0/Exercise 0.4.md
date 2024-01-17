@@ -1,5 +1,6 @@
 EXERCISE 0.4
 
+    ```mermaid
     sequenceDiagram
     loop POST Method
 
@@ -21,3 +22,4 @@ EXERCISE 0.4
 
         browser->server: HTTP POST {note: 'Your inputting content.'}
     end
+    ```
