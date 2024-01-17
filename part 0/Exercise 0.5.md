@@ -1,7 +1,7 @@
 EXERCISE 0.5
 
 ```mermaid
-    sequenceDiagram
+sequenceDiagram
         participant browser
         participant server
 
