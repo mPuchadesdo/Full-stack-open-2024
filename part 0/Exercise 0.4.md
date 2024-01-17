@@ -1,4 +1,4 @@
-Title: Exercise 0.4
+EXERCISE 0.4
 
     sequenceDiagram
     loop POST Method
